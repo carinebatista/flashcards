@@ -1,7 +1,7 @@
 # FlashCards
 
-This is a Simple Project build using only JavaScript, CSS and HTML. 
+This is a Simple Project build using JS, CSS and HTML.
 
-You can add your flashcards and they will be stored locally into LocalStorage!
+You can add your flashcards and they will be stored into LocalStorage, you can use it to study and improve your own skills
 
 <img src=".\flashcard.png" align="center">
